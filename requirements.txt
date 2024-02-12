@@ -8,7 +8,7 @@ backcall
 bleach
 Bottleneck
 brotlipy
-certif
+certifi
 cffi
 charset-normalizer
 colorama
